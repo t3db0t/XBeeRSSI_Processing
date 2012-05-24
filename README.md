@@ -20,4 +20,4 @@ This repo contains the compiled jars in the code/ folder for convenience.
 1. Start the Processing sketch.
 1. You will see some warnings saying that log4j isn't configured and so forth.  Setting up log4j adds needless complexity for this task so ignore it.
 1. Assuming both XBees are powered and associated with each other, you should start seeing "DB is -something" printed out repeatedly.  If you see a runtime error, it's because the remote XBee isn't reachable for one reason or another (so start testing with them close to each other to make sure they work).
-1. Have fun, let me know it worked for you on my blog, and show me what cool stuff you make!
+1. Have fun, let me know it worked for you [on my blog](http://log.liminastudio.com/programming/how-to-get-the-signal-strength-of-2-xbees-in-processing), and [show me](http://log.liminastudio.com/programming/how-to-get-the-signal-strength-of-2-xbees-in-processing) what cool stuff you make!
